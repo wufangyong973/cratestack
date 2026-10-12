@@ -52,3 +52,6 @@ __pycache__/
 # ADR 0017) was swept into a commit by `git add -A` precisely because
 # nothing ignored it there.
 .dart_tool/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
